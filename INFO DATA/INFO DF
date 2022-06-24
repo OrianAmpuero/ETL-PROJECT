@@ -1,0 +1,29 @@
+                                                                   WINES_SPA
+
+COLUMNS
+winery: Winery name
+wine: Name of the wine
+year: Year in which the grapes were harvested
+rating: Average rating given to the wine by the users [from 1-5]
+num_reviews: Number of users that reviewed the wine
+country: Country of origin [Spain]
+region: Region of the wine
+price: Price in euros [€]
+type: Wine variety
+body: Body score, defined as the richness and weight of the wine in your mouth [from 1-5]
+acidity: Acidity score, defined as wine's “pucker” or tartness; it's what makes a wine refreshing and your tongue salivate and want another sip [from 1-5]
+
+
+
+COLUMNAS
+bodega: nombre de la bodega
+vino: Nombre del vino
+año: Año en que se recolectó la uva
+Valoración: Valoración media otorgada al vino por los usuarios [de 1 a 5]
+num_reviews: Número de usuarios que opinaron sobre el vino
+país: País de origen [España]
+región: Región del vino
+precio: Precio en euros [€]
+tipo: Variedad de vino
+cuerpo: Puntuación del cuerpo, definida como la riqueza y el peso del vino en la boca [de 1 a 5]
+acidez: Puntuación de acidez, definida como el “arrugado” o acidez del vino; es lo que hace que un vino sea refrescante y tu lengua saliva y quieras otro sorbo [del 1 al 5]
