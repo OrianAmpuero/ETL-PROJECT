@@ -1,17 +1,23 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
 # PROYECTO ETL:pushpin:
 Tercer proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/):snake:. 
-    Aplicar ETL sobre un tema de elección personal y según ciertos requisitos:
-    1.Extraer datos
-    2.Limpieza y análisis de los datos.
-    3.Crear base de datos SQL relacional.
-    4.Presentar resultados.
+    -Aplicar ETL sobre un tema de elección personal y según ciertos requisitos:
+        1. Extraer datos.
+        2. Limpieza y análisis de los datos.
+        3. Crear base de datos SQL relacional.
+        4. Presentar resultados.
 
 ---
 # Vinos de España:wine_glass:
+>Hay más filosofía y sabiduría en una botella de vino, que en todos los libros.» Louis Pasteur
+
 ![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/wines.jpg)
-La calidad del vino en España según usuarios, mediante un ranking que valora su experiencia por olor, cuerpo y acidez mientras degustaban de diversos tipos en las diferentes regiones y bodegas del pais; además de un top 25 en las mejores selecciones de vino por James Suckling.
+
+*La calidad del vino en España según usuarios, mediante un ranking que valora su experiencia por olor, cuerpo y acidez mientras degustaban de diversos tipos en las diferentes regiones y bodegas del pais; además de un top 25 en las mejores selecciones de vino por James Suckling.*
+
 ![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/mapa%20de%20vino.jpg)
+
+
 
 <b> Herramientas para este proyecto🛠: Workbench, Jupyter Notebook, Python, Pandas, Selenium.</b>
 
