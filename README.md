@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
 # PROYECTO ETL:pushpin:
-Tercer proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/):snake:. 
-    -Aplicar ETL sobre un tema de elección personal y según ciertos requisitos:
+Tercer proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/):snake:. Aplicar ETL sobre un tema de elección personal y según ciertos requisitos:
+
         1. Extraer datos.
         2. Limpieza y análisis de los datos.
         3. Crear base de datos SQL relacional.
@@ -9,7 +9,7 @@ Tercer proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/):snake
 
 ---
 # Vinos de España:wine_glass:
->Hay más filosofía y sabiduría en una botella de vino, que en todos los libros.» Louis Pasteur
+>Hay más filosofía y sabiduría en una botella de vino, que en todos los libros. Louis Pasteur
 
 ![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/wines.jpg)
 
