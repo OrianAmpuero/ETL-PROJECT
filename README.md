@@ -1,22 +1,25 @@
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
 # PROYECTO ETL
+Tercer proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) 
+
+---
 # Vinos de España
 el vino de españa
 
-<b>Tools:</b> 
-    Workbench, Jupyter Notebook, Python, Pandas.
+<b>Tools🛠: Workbench, Jupyter Notebook, Python, Pandas.</b>
 
+---
 
-### Extracción
+## Extracción
 Se extrajó información sobre el vino de España desde tres fuentes diferentes y usando 2 métodos.
 
-### Transformación
+## Transformación
 Se eliminaron las columnas innecesarias, se cambió el tipo de datos de alguna de ellas para que estuviera correctamente......
 
-### Carga de Datos
+## Carga de Datos
 Se creó una base de datos desde Jupyter Notebook para Workbech, luego la relación de entidades de cada tabla en un esquema...
 
-
-
+---
 
 
 
@@ -36,10 +39,8 @@ Se creó una base de datos desde Jupyter Notebook para Workbech, luego la relaci
 
 
 
+### Fuente de los Datos
 
+[Dataset Kaggle](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)
 
-
-fedesoriano. (April 2022). Spanish Wine Quality Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
-
-
-https://www.bdelvino.com/2019/12/10/top-100-espana-james-suckling/
+[Top100 Vinos](https://www.bdelvino.com/2019/12/10/top-100-espana-james-suckling/)
