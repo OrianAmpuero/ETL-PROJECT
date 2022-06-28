@@ -32,7 +32,7 @@ Se eliminaron las columnas innecesarias como por ejemplo la de pais en la tabla 
 ## Carga de Datos:heavy_check_mark:
 Se creó una base de datos desde Jupyter Notebook para Workbech.
 
-![Image]('https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/CREACION%20BASE%20DE%20DATOS.jpg')
+![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/CREACION%20BASE%20DE%20DATOS.jpg)
 
 
 ---
