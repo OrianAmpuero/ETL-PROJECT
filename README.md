@@ -30,7 +30,9 @@ Se extrajó información sobre el vino de España desde tres fuentes diferentes 
 Se eliminaron las columnas innecesarias como por ejemplo la de pais en la tabla principal ya que solo estamos analizando los vinos de España, se cambió el tipo de datos de alguna de ellas para que estuviera correctamente.....
 
 ## Carga de Datos:heavy_check_mark:
-Se creó una base de datos desde Jupyter Notebook para Workbech, luego la relación de entidades de cada tabla en un esquema...
+Se creó una base de datos desde Jupyter Notebook para Workbech.
+
+![Image]()
 
 
 ---
@@ -38,20 +40,12 @@ Se creó una base de datos desde Jupyter Notebook para Workbech, luego la relaci
 
 ## VISUALIZACIÓN:dart:
 
-![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/top%2020%20bodegas%20por%20numero%20total%20de%20vinos.jpg)
-
-
-![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/top%2020%20bodegas%20por%20precio%20medio.jpg)
-
-
-![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/top%2020%20regiones%20por%20precio%20promedio.jpg)
-
 
 ![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/tipo%20de%20vino%20-%20precio%20medio.jpg)
 
 
 ![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/tipo%20de%20vino%20-%20opini%C3%B3n%20usuario.jpg)
-
+Aquí podemos ver que el tipo de vino Tinto es el más popular y sobrevalorado, en cambio el Tempranillo está más subestimado.
 
 ![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/precio%20de%20vino%20-%20a%C3%B1o%20que%20se%20recolect%C3%B3%20uva.jpg)
 
@@ -61,6 +55,7 @@ Se creó una base de datos desde Jupyter Notebook para Workbech, luego la relaci
 
 
 ![Image](https://github.com/OrianAmpuero/PROJECT-3/blob/main/IMAGES/precio%20-%20puntaje%20del%20usuario.jpg)
+Podemos observar que el precio es alto en vinos con calificación de 4.6 y los vinos con calificación de 4.9 tienen un precio mejor.
 
 
 
@@ -68,4 +63,4 @@ Se creó una base de datos desde Jupyter Notebook para Workbech, luego la relaci
 
 [Dataset Kaggle](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)
 
-[Top100 Vinos](https://www.bdelvino.com/2019/12/10/top-100-espana-james-suckling/)
+[Top25 Vinos](https://www.bdelvino.com/2019/12/10/top-100-espana-james-suckling/)
